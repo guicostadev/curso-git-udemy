@@ -1,0 +1,21 @@
+- git add <lista de arquivos>
+Recebe uma lista de arquivos como parâmetro. Adciona os arquivos novos e modificados para o próximo commit.
+
+- git add .
+Adiciona todos os arquivos ao próximo commit.
+
+- git commit [-m "Message"]
+Registra o commit com todos os arquivos que usou "git add"
+Caso não tenha passado nenhuma mensagem, abrirá o editor de texto para escrever a mensagem
+
+- git push
+
+
+- git config --global core.editor
+Troca o editor de texto padrão
+
+- git status
+Vê o status dos arquivos no git. Arquivos que já foram ou não adicionas ao commit
+
+- git log
+Mostra os ultimos commits feitos
