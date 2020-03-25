@@ -1,0 +1,13 @@
+- Untracked
+Não monitorado
+Arquivo novo
+
+- Modified
+Arquivo já está no repositório e foi alterado
+
+- Staged
+Após git add
+Já está preparado para envio
+
+- Commited
+Já registrado para envio

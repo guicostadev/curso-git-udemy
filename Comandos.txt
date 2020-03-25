@@ -19,3 +19,6 @@ Vê o status dos arquivos no git. Arquivos que já foram ou não adicionas ao co
 
 - git log
 Mostra os ultimos commits feitos
+
+- git diff
+Diferenças entre commits e branchs
