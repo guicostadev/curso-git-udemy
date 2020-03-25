@@ -22,3 +22,6 @@ Mostra os ultimos commits feitos
 
 - git diff
 Diferenças entre commits e branchs
+
+- git pull
+Baixa as alterações
